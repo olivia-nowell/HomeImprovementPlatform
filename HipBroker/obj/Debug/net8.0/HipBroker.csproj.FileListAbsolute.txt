@@ -1,0 +1,17 @@
+C:\Users\Sesa724563\source\repos\HipBroker\bin\Debug\net8.0\HipBroker.exe
+C:\Users\Sesa724563\source\repos\HipBroker\bin\Debug\net8.0\HipBroker.deps.json
+C:\Users\Sesa724563\source\repos\HipBroker\bin\Debug\net8.0\HipBroker.runtimeconfig.json
+C:\Users\Sesa724563\source\repos\HipBroker\bin\Debug\net8.0\HipBroker.dll
+C:\Users\Sesa724563\source\repos\HipBroker\bin\Debug\net8.0\HipBroker.pdb
+C:\Users\Sesa724563\source\repos\HipBroker\bin\Debug\net8.0\MQTTnet.dll
+C:\Users\Sesa724563\source\repos\HipBroker\obj\Debug\net8.0\HipBroker.csproj.AssemblyReference.cache
+C:\Users\Sesa724563\source\repos\HipBroker\obj\Debug\net8.0\HipBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sesa724563\source\repos\HipBroker\obj\Debug\net8.0\HipBroker.AssemblyInfoInputs.cache
+C:\Users\Sesa724563\source\repos\HipBroker\obj\Debug\net8.0\HipBroker.AssemblyInfo.cs
+C:\Users\Sesa724563\source\repos\HipBroker\obj\Debug\net8.0\HipBroker.csproj.CoreCompileInputs.cache
+C:\Users\Sesa724563\source\repos\HipBroker\obj\Debug\net8.0\HipBroker.csproj.Up2Date
+C:\Users\Sesa724563\source\repos\HipBroker\obj\Debug\net8.0\HipBroker.dll
+C:\Users\Sesa724563\source\repos\HipBroker\obj\Debug\net8.0\refint\HipBroker.dll
+C:\Users\Sesa724563\source\repos\HipBroker\obj\Debug\net8.0\HipBroker.pdb
+C:\Users\Sesa724563\source\repos\HipBroker\obj\Debug\net8.0\HipBroker.genruntimeconfig.cache
+C:\Users\Sesa724563\source\repos\HipBroker\obj\Debug\net8.0\ref\HipBroker.dll

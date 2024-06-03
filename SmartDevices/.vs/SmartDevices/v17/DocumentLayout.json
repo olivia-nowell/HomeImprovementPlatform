@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\SmartDevices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC847DD-8586-4A12-AB7F-720E58269749}|SmartDevices.csproj|c:\\users\\sesa724563\\source\\repos\\hipwebapplication\\smartdevices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC847DD-8586-4A12-AB7F-720E58269749}|SmartDevices.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC847DD-8586-4A12-AB7F-720E58269749}|SmartDevices.csproj|c:\\users\\sesa724563\\source\\repos\\hipwebapplication\\smartdevices\\iotdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC847DD-8586-4A12-AB7F-720E58269749}|SmartDevices.csproj|solutionrelative:iotdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC847DD-8586-4A12-AB7F-720E58269749}|SmartDevices.csproj|c:\\users\\sesa724563\\source\\repos\\hipwebapplication\\smartdevices\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2AC847DD-8586-4A12-AB7F-720E58269749}|SmartDevices.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC847DD-8586-4A12-AB7F-720E58269749}|SmartDevices.csproj|c:\\users\\sesa724563\\source\\repos\\hipwebapplication\\smartdevices\\devicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC847DD-8586-4A12-AB7F-720E58269749}|SmartDevices.csproj|solutionrelative:devicedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC847DD-8586-4A12-AB7F-720E58269749}|SmartDevices.csproj|c:\\users\\sesa724563\\source\\repos\\hipwebapplication\\smartdevices\\deviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC847DD-8586-4A12-AB7F-720E58269749}|SmartDevices.csproj|solutionrelative:deviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC847DD-8586-4A12-AB7F-720E58269749}|SmartDevices.csproj|c:\\users\\sesa724563\\source\\repos\\hipwebapplication\\smartdevices\\broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC847DD-8586-4A12-AB7F-720E58269749}|SmartDevices.csproj|solutionrelative:broker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\SmartDevices\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\SmartDevices\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-16T14:50:16.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\SmartDevices\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\SmartDevices\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:49:53.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IotDevice.cs",
+              "DocumentMoniker": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\SmartDevices\\IotDevice.cs",
+              "RelativeDocumentMoniker": "IotDevice.cs",
+              "ToolTip": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\SmartDevices\\IotDevice.cs",
+              "RelativeToolTip": "IotDevice.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:49:14.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceData.cs",
+              "DocumentMoniker": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\SmartDevices\\DeviceData.cs",
+              "RelativeDocumentMoniker": "DeviceData.cs",
+              "ToolTip": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\SmartDevices\\DeviceData.cs",
+              "RelativeToolTip": "DeviceData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:48:50.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeviceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\SmartDevices\\DeviceConfiguration.cs",
+              "RelativeDocumentMoniker": "DeviceConfiguration.cs",
+              "ToolTip": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\SmartDevices\\DeviceConfiguration.cs",
+              "RelativeToolTip": "DeviceConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:48:13.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Broker.cs",
+              "DocumentMoniker": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\SmartDevices\\Broker.cs",
+              "RelativeDocumentMoniker": "Broker.cs",
+              "ToolTip": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\SmartDevices\\Broker.cs",
+              "RelativeToolTip": "Broker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:46:00.396Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

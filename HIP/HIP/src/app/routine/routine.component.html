@@ -1,0 +1,17 @@
+<div *ngIf="routines" class="d-flex justify-content-between">
+  <div class="pt-1 pb-1 ps-1 pe-1">
+    <ul>
+      <li *ngFor="let routine of routines">
+        <div><strong>Routine Name:</strong> {{ routine.name }}</div>
+        <div><strong>Trigger:</strong> {{ routine.trigger }}</div>
+        <div><strong>Actions:</strong> {{ routine.actions }}</div>
+        <div><strong>Schedule:</strong> {{ routine.schedule }}</div>
+        <div><strong>Devices:</strong> {{ routine.devices }}</div>
+        <div><strong>Status:</strong> {{ routine.status }}</div>
+      </li>
+    </ul>
+  </div>
+  <div>
+    <button class="btn btn-primary btn-lg" [routerLink]="'add-routine'">Add Routine</button>
+  </div>
+</div>

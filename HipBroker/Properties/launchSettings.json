@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HipBroker": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

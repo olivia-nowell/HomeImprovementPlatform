@@ -1,0 +1,6 @@
+C:\Users\Sesa724563\source\repos\HipBroker\bin\Release\net8.0\publish\HipBroker.exe
+C:\Users\Sesa724563\source\repos\HipBroker\bin\Release\net8.0\publish\HipBroker.dll
+C:\Users\Sesa724563\source\repos\HipBroker\bin\Release\net8.0\publish\HipBroker.deps.json
+C:\Users\Sesa724563\source\repos\HipBroker\bin\Release\net8.0\publish\HipBroker.runtimeconfig.json
+C:\Users\Sesa724563\source\repos\HipBroker\bin\Release\net8.0\publish\HipBroker.pdb
+C:\Users\Sesa724563\source\repos\HipBroker\bin\Release\net8.0\publish\MQTTnet.dll

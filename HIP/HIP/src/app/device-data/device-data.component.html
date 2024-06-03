@@ -1,0 +1,27 @@
+<div *ngFor="let data of deviceData; let i = index">
+  <ng-container *ngIf="data.error !== false">
+  <div class="alert alert-danger p-3 mb-2">
+    <h2 class="fw-bold text-black">Attention Needed: Device ID {{ data.id }}</h2>
+    <section class="bg-light p-2 text-red">
+    <p>Runtime: {{ data.runtime }}</p>
+    <p>Current: {{ data.current }}</p>
+    <p>Voltage: {{ data.voltage }}</p>
+    <p>System Error: {{ data.error }}</p>
+      </section>
+    </div>
+    </ng-container>
+  </div> <!-- All Devices Section -->
+  <!--<div class="mt-4">
+  <h4 class="mb-3">All Devices Status</h4>
+  <div *ngFor="let data of deviceData; let i = index" class="card mb-2">
+    <div class="card-body"> <h5 class="card-title">Device ID {{ data.id }}</h5>
+    <section class="card-text">
+      <p>Runtime: {{ data.runtime }}</p>
+      <p>Current: {{ data.current }}</p>
+      <p>Voltage: {{ data.voltage }}</p>
+      <p>System Error: {{ data.error }}</p>
+      </section>
+      </div>
+    </div>
+    </div>
+  </article>-->

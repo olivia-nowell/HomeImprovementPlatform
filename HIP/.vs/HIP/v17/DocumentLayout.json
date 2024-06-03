@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\HIP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D64D7A-E6AE-4142-BA48-ED7A140E9F3F}|HIP\\HIP.esproj|c:\\users\\sesa724563\\source\\repos\\hipwebapplication\\hip\\hip\\src\\app\\devices.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6D64D7A-E6AE-4142-BA48-ED7A140E9F3F}|HIP\\HIP.esproj|solutionrelative:hip\\src\\app\\devices.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D64D7A-E6AE-4142-BA48-ED7A140E9F3F}|HIP\\HIP.esproj|c:\\users\\sesa724563\\source\\repos\\hipwebapplication\\hip\\hip\\src\\app\\routines.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6D64D7A-E6AE-4142-BA48-ED7A140E9F3F}|HIP\\HIP.esproj|solutionrelative:hip\\src\\app\\routines.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D64D7A-E6AE-4142-BA48-ED7A140E9F3F}|HIP\\HIP.esproj|c:\\users\\sesa724563\\source\\repos\\hipwebapplication\\hip\\hip\\src\\app\\device-data\\device-data.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6D64D7A-E6AE-4142-BA48-ED7A140E9F3F}|HIP\\HIP.esproj|solutionrelative:hip\\src\\app\\device-data\\device-data.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D64D7A-E6AE-4142-BA48-ED7A140E9F3F}|HIP\\HIP.esproj|c:\\users\\sesa724563\\source\\repos\\hipwebapplication\\hip\\hip\\src\\app\\device-data\\device-data.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6D64D7A-E6AE-4142-BA48-ED7A140E9F3F}|HIP\\HIP.esproj|solutionrelative:hip\\src\\app\\device-data\\device-data.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D64D7A-E6AE-4142-BA48-ED7A140E9F3F}|HIP\\HIP.esproj|c:\\users\\sesa724563\\source\\repos\\hipwebapplication\\hip\\hip\\src\\app\\routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6D64D7A-E6AE-4142-BA48-ED7A140E9F3F}|HIP\\HIP.esproj|solutionrelative:hip\\src\\app\\routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D64D7A-E6AE-4142-BA48-ED7A140E9F3F}|HIP\\HIP.esproj|c:\\users\\sesa724563\\source\\repos\\hipwebapplication\\hip\\hip\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B6D64D7A-E6AE-4142-BA48-ED7A140E9F3F}|HIP\\HIP.esproj|solutionrelative:hip\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "devices.service.ts",
+              "DocumentMoniker": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\HIP\\HIP\\src\\app\\devices.service.ts",
+              "RelativeDocumentMoniker": "HIP\\src\\app\\devices.service.ts",
+              "ToolTip": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\HIP\\HIP\\src\\app\\devices.service.ts",
+              "RelativeToolTip": "HIP\\src\\app\\devices.service.ts",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-03T13:09:00.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "routines.service.ts",
+              "DocumentMoniker": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\HIP\\HIP\\src\\app\\routines.service.ts",
+              "RelativeDocumentMoniker": "HIP\\src\\app\\routines.service.ts",
+              "ToolTip": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\HIP\\HIP\\src\\app\\routines.service.ts",
+              "RelativeToolTip": "HIP\\src\\app\\routines.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-03T13:08:29.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\HIP\\HIP\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "HIP\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\HIP\\HIP\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "HIP\\src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-03T12:51:56.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "routes.ts",
+              "DocumentMoniker": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\HIP\\HIP\\src\\app\\routes.ts",
+              "RelativeDocumentMoniker": "HIP\\src\\app\\routes.ts",
+              "ToolTip": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\HIP\\HIP\\src\\app\\routes.ts",
+              "RelativeToolTip": "HIP\\src\\app\\routes.ts",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-03T12:51:41.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "device-data.component.html",
+              "DocumentMoniker": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\HIP\\HIP\\src\\app\\device-data\\device-data.component.html",
+              "RelativeDocumentMoniker": "HIP\\src\\app\\device-data\\device-data.component.html",
+              "ToolTip": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\HIP\\HIP\\src\\app\\device-data\\device-data.component.html",
+              "RelativeToolTip": "HIP\\src\\app\\device-data\\device-data.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-03T12:51:17.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "device-data.component.ts",
+              "DocumentMoniker": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\HIP\\HIP\\src\\app\\device-data\\device-data.component.ts",
+              "RelativeDocumentMoniker": "HIP\\src\\app\\device-data\\device-data.component.ts",
+              "ToolTip": "C:\\Users\\Sesa724563\\source\\repos\\HipWebApplication\\HIP\\HIP\\src\\app\\device-data\\device-data.component.ts",
+              "RelativeToolTip": "HIP\\src\\app\\device-data\\device-data.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-03T12:51:07.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

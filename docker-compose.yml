@@ -1,0 +1,49 @@
+version: '1.1'
+
+services:
+  broker:
+    stdin_open: true
+    tty: true
+    image: broker
+    build:
+        context: ./HipBroker
+        dockerfile: Dockerfile
+    ports:
+        - "7077:7077"
+    networks:
+        - "olivia-net"
+    expose:
+        - 7077
+  SmartDevices:
+    stdin_open: true
+    tty: true
+    image: smartdevices
+    build:
+        context: ./SmartDevices
+        dockerfile: Dockerfile
+    networks:
+        - "olivia-net"
+    depends_on:
+      - DeviceManagerAPI
+  DeviceManagerAPI:
+    image: manager
+    build:
+        context: ./DeviceManagerAPI
+        dockerfile: DeviceManagerAPI/Dockerfile
+    ports:
+        - "8080:8080"
+    networks:
+        - "olivia-net"
+  HIP:
+    image: hip
+    build:
+        context: ./HIP
+        dockerfile: HIP/Dockerfile
+    ports:
+        - "4200:4200"
+    networks:
+        - "olivia-net"
+
+networks:
+    olivia-net:
+        driver: bridge
